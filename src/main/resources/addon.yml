@@ -1,0 +1,9 @@
+name: VoidTeleportAddon
+version: '1.0.0'
+main: com.github.lukesky19.voidTeleportAddon.VoidTeleportAddon
+api-version: '1.21'
+authors: lukeskywlker19
+permissions:
+    '[gamemode].voidteleport':
+        description: Teleport the player from the void back to their island.
+        default: false
